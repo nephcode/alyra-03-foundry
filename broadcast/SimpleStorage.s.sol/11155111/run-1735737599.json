@@ -1,0 +1,31 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CREATE",
+      "contractName": "SimpleStorage",
+      "contractAddress": "0xc0b2664f5bfc2511fb57cfb9c6f218b65b2d0989",
+      "function": null,
+      "arguments": [
+        "3"
+      ],
+      "transaction": {
+        "from": "0x18814a947aac8faeb0b637f36a4c0e02d0f0186c",
+        "gas": "0x23a96",
+        "value": "0x0",
+        "input": "0x6080604052348015600e575f5ffd5b5060405160f538038060f5833981016040819052602991602f565b5f556045565b5f60208284031215603e575f5ffd5b5051919050565b60a58060505f395ff3fe6080604052348015600e575f5ffd5b50600436106030575f3560e01c806360fe47b11460345780636d4ce63c146045575b5f5ffd5b6043603f3660046059565b5f55565b005b5f5460405190815260200160405180910390f35b5f602082840312156068575f5ffd5b503591905056fea26469706673582212200204c5ed5561823bb5721cc7568a130147f858659e248a07f07d9add3613d1d564736f6c634300081c00330000000000000000000000000000000000000000000000000000000000000003",
+        "nonce": "0x3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1735737599,
+  "chain": 11155111,
+  "commit": "4f654a6"
+}
